@@ -11,6 +11,7 @@ def test_constructor():
     s = Stack()
     assert isinstance(s, Stack)
     assert len(s) == 0
+    assert 1 == 1
 
 
 def test_push(stack):
