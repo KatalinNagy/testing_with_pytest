@@ -14,3 +14,6 @@ class Stack:
         except IndexError:
             item = None
         return item
+
+    def print_hello(self):
+        print("hello")
