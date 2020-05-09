@@ -1,4 +1,4 @@
-import pandas as ps
+import pandas as pd
 
 class Stack:
     def __init__(self):
